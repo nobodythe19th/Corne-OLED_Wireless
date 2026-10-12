@@ -1,0 +1,2 @@
+osource "/workspaces/Corne-OLED_Wireless/zmk-nice-oled/boards/shields/*/Kconfig.shield"
+osource "/workspaces/Corne-OLED_Wireless/zmk/app/boards/shields/*/Kconfig.shield"
